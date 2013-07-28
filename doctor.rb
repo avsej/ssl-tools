@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 # Usage: ruby doctor.rb [HOST=status.github.com[:PORT=443]]
 require 'rbconfig'
 require 'net/https'
